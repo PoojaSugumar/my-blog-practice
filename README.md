@@ -1,2 +1,3 @@
-# my-blog-practice
-A practice project to learn Git and GitHub. Includes a basic blog folder structure with content, assets, and drafts.
+## Installation
+
+For setup instructions, see the [Installation wiki page](https://github.com/PoojaSugumar/my-blog-practice/wiki/Installation).
