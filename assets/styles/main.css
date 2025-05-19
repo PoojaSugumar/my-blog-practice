@@ -11,3 +11,8 @@
   background-color: #0056b3;
 }
 
+/* Dark Theme */
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
